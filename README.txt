@@ -19,10 +19,13 @@ Introduction:
     make working with the control much easier.
 
     Benefits:
+        - Tools only ever need to be measured once
         - Positive tool lengths measured from the spindle gage line
         - Negative Z fixture offsets measured from the spindle face at the Z 
         axis Cold Start position
         - All measurements happen on the machine
+        - Tool lengths are portable and can also be measured offline using a  
+        presetter
         - Ability to easily use a Haimer 3D sensor or other in-spindle 
         measurement tool
         - A wiggler, gage pin or simple electronic edge finder will work 
